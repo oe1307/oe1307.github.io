@@ -1,4 +1,40 @@
 .header {
-  background-color: #98fb98;
-  height: 90px;
+  background-color: #acd38c;
+  height: 200px;
+}
+
+.container {
+  font-family: "Helvetica", Arial, sans-serif;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 20px;
+  color: white;
+}
+
+.top-page {
+  float: left;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+}
+.publications {
+  float: left;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+}
+
+body {
+  font-family: "Helvetica";
+}
+
+img {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  object-position: 0 -10;
+  border: 10px solid #eee;
 }
