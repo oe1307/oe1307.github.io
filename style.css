@@ -1,29 +1,40 @@
 .header {
   background-color: #acd38c;
-  height: 200px;
+  height: 100px;
 }
 
-.container {
+.header .container {
   font-family: "Helvetica", Arial, sans-serif;
-  font-size: 23px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 20px;
+  margin-left: 45px;
+  margin-right: 45px;
   color: white;
 }
 
-.top-page {
+.header .top-page {
   float: left;
-  padding-bottom: 15px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
   padding-top: 15px;
+  padding-bottom: 15px;
 }
+
+.header .top-page:hover {
+  border-bottom: 2px solid #fff;
+}
+
 .publications {
   float: left;
-  padding-bottom: 15px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
   padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.publications:hover {
+  border-bottom: 2px solid #fff;
 }
 
 body {
@@ -32,8 +43,8 @@ body {
 
 img {
   border-radius: 50%;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
   object-position: 0 -10;
   border: 10px solid #eee;
