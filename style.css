@@ -50,13 +50,13 @@ body {
   width: 250px;
   height: 250px;
   object-fit: cover;
-  object-position: 0 -10;
   border: 10px solid #eee;
   margin-top: 35px;
   margin-left: 250px;
 }
 
 .main h1 {
-  font-size: 45px;
-  margin-left: 300px;
+  font-size: 55px;
+  margin-left: 290px;
+  color: #5a5a5a;
 }
