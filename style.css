@@ -16,17 +16,17 @@ body {
   color: white;
 }
 
+.header .container a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .header .top-page {
   float: left;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 15px;
   padding-bottom: 15px;
-}
-
-.header .top-page a {
-  color: inherit;
-  text-decoration: none;
 }
 
 .header .top-page:hover {
