@@ -2,12 +2,12 @@ body {
   font-family: "Helvetica", Arial, sans-serif;
 }
 
-.header {
+header {
   background-color: #acd38c;
   height: 100px;
 }
 
-.header .container {
+header .container {
   font-size: 18px;
   font-weight: 700;
   line-height: 20px;
@@ -16,12 +16,12 @@ body {
   color: white;
 }
 
-.header .container a {
+header .container a {
   color: inherit;
   text-decoration: none;
 }
 
-.header .top-page {
+header .top-page {
   float: left;
   padding-left: 20px;
   padding-right: 20px;
@@ -29,11 +29,11 @@ body {
   padding-bottom: 15px;
 }
 
-.header .top-page:hover {
+header .top-page:hover {
   border-bottom: 2px solid #fff;
 }
 
-.header .publications {
+header .publications {
   float: left;
   padding-left: 20px;
   padding-right: 20px;
@@ -41,7 +41,7 @@ body {
   padding-bottom: 15px;
 }
 
-.header .publications:hover {
+header .publications:hover {
   border-bottom: 2px solid #fff;
 }
 
