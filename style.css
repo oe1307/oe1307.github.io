@@ -61,9 +61,9 @@ body {
   color: #5a5a5a;
 }
 
-.main .contents li {
-  list-style: none;
+.main .contents {
   font-size: 20px;
   margin-left: 100px;
   position: relative;
+  list-style: none;
 }
