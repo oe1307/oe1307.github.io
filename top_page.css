@@ -21,7 +21,9 @@
     background-position: left center;
     background-size: 25px;
     padding: 10px 35px;
-    display: inline-block;
+    width: fit-content;
+    margin: auto;
+    list-style: none;
   }
 }
 
@@ -36,7 +38,6 @@
 
 .links {
   text-align: center;
-  font-weight: 700;
   margin-top: 50px;
   & img {
     width: 40px;
