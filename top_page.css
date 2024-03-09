@@ -1,0 +1,47 @@
+.profile {
+  text-align: center;
+  & img {
+    border-radius: 50%;
+    width: 25%;
+    margin-top: 35px;
+    border: 10px solid #eee;
+  }
+  & h1 {
+    font-size: 55px;
+    color: #5a5a5a;
+  }
+}
+
+.education {
+  text-align: center;
+  margin-top: 50px;
+  & li {
+    background-image: url("./images/education.svg");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 25px;
+    padding: 10px 35px;
+    width: fit-content;
+    margin: auto;
+    list-style: none;
+  }
+}
+
+.interests {
+  list-style: none;
+  text-align: center;
+  margin-top: 50px;
+  & li {
+    margin-bottom: 20px;
+  }
+}
+
+.links {
+  text-align: center;
+  margin-top: 50px;
+  & img {
+    width: 40px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+  }
+}
