@@ -1,47 +1,24 @@
-.profile {
-  text-align: center;
+.navbar-brand#name {
+  border-bottom: 2px solid #fff;
+}
+
+#profile h1 {
+  color: #5a5a5a;
+  font-weight: bold;
+}
+
+#profile img {
+  width: 260px;
+  height: auto;
+  vertical-align: middle;
+  border: 10px solid #eee;
+  border-radius: 130px;
+}
+
+#profile .col-md-4 {
   margin-top: 35px;
-  & img {
-    border-radius: 50%;
-    width: 260px;
-    margin-top: 35px;
-    border: 10px solid #eee;
-  }
-  & h1 {
-    color: #5a5a5a;
-  }
 }
 
-.education {
-  text-align: center;
-  margin-top: 50px;
-  & li {
-    background-image: url("./images/education.svg");
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-size: 25px;
-    padding: 10px 35px;
-    width: fit-content;
-    margin: auto;
-    list-style: none;
-  }
-}
-
-.interests {
-  list-style: none;
-  text-align: center;
-  margin-top: 50px;
-  & li {
-    margin-bottom: 20px;
-  }
-}
-
-.links {
-  text-align: center;
-  margin-top: 50px;
-  & img {
-    width: 40px;
-    vertical-align: middle;
-    margin-bottom: 10px;
-  }
+#links {
+  font-size: 4rem;
 }

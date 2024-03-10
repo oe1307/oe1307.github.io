@@ -1,5 +1,3 @@
-li {
-  margin-bottom: 20px;
-  margin-right: 150px;
-  font-family: "Times New Roman", Times, serif;
+.navbar-brand#publications {
+  border-bottom: 2px solid #fff;
 }
