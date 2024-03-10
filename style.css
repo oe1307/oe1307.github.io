@@ -24,7 +24,13 @@ html {
   margin-right: 10px;
 }
 
-header #language {
+#language {
+  color: #5a5a5a;
   margin-top: 60px;
   text-align: right;
+}
+
+#language a {
+  color: #5a5a5a;
+  text-decoration: none;
 }
