@@ -2,12 +2,12 @@
   text-align: center;
   & img {
     border-radius: 50%;
-    width: 25%;
+    width: 260px;
     margin-top: 35px;
     border: 10px solid #eee;
   }
   & h1 {
-    font-size: 55px;
+    /* font-size: 55px; */
     color: #5a5a5a;
   }
 }
@@ -44,4 +44,8 @@
     vertical-align: middle;
     margin-bottom: 10px;
   }
+}
+
+@media (max-width: 767px) {
+  
 }
