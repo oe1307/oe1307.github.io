@@ -19,6 +19,9 @@
   margin-top: 35px;
 }
 
-#links {
-  font-size: 4rem;
+.fa-stack.fa-xl {
+  color: #5a5a5a;
+}
+.fa-stack:hover {
+  color: #42a5f5;
 }
