@@ -24,6 +24,7 @@ html {
   margin-right: 10px;
 }
 
-#langulage {
+header #language {
+  margin-top: 60px;
   text-align: right;
 }
