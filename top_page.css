@@ -2,6 +2,10 @@
   border-bottom: 2px solid #fff;
 }
 
+body {
+  text-align: center;
+}
+
 #profile h1 {
   color: #5a5a5a;
   font-weight: bold;
@@ -24,4 +28,8 @@
 }
 .fa-stack:hover {
   color: #42a5f5;
+}
+
+footer {
+  padding-top: 150px;
 }
