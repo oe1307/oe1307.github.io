@@ -24,6 +24,7 @@ body {
 }
 
 .fa-stack.fa-xl {
+  padding-top: 10px;
   color: #5a5a5a;
 }
 .fa-stack:hover {
