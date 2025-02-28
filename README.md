@@ -2,4 +2,4 @@
 
 ### Links: https://oe1307.github.io/
 
-Thank you for visiting!!
+Thank you for visiting.
